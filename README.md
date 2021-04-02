@@ -1,9 +1,23 @@
-## Guilherme Pace
-Driven software engineer with a background in finance. Curious problem solver and passionate for tackling challenges that combine analytical and strategic thinking. I enjoy the process of developing applications and collaborating with others to develop effective software solutions. I also have a life-long passion for aviation and the sport of soaring in particular. 
+<h2 align="center">Guilherme Pace</h2>
 
+<p align="center">Driven software engineer with a background in finance. Curious problem solver and passionate for tackling challenges that combine analytical and strategic thinking. I enjoy the process of developing applications and collaborating with others to develop effective software solutions. I also have a life-long passion for aviation and the sport of soaring in particular.</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermepace/">
+    <img
+      alt="Linkedin"
+      src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <a href="mailto:pace.gui@gmail.com">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white"
+    />
+  </a>
+</p>
 
-🌎 Eu também falo Português fluentemente
+🌎 Falo Português fluentemente
 
 ### Technologies
 * Primary languages: 
