@@ -1,6 +1,6 @@
 <h2 align="center">Guilherme Pace</h2>
 
-<p align="center">Driven software engineer with a background in finance. Curious problem solver and passionate for tackling challenges that combine analytical and strategic thinking. I enjoy the process of developing applications and collaborating with others to develop effective software solutions. I also have a life-long passion for aviation and the sport of soaring in particular</p>
+<p align="center">Driven software engineer with a background in finance. Curious problem solver and passionate for tackling challenges that combine analytical and strategic thinking. I enjoy the process of developing applications and collaborating with others to develop effective software solutions. I also have a life-long passion for aviation and the sport of soaring in particular.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermepace/">
