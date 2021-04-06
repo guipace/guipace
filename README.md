@@ -43,7 +43,7 @@
     ![CSS](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=151414)
     ![Tailwind](https://img.shields.io/badge/Tailwind-informational?style=flat-square&logo=tailwind-css&logoColor=white&color=151414)
 * Backend: 
-    ![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat-square&color=151414)
+    ![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat-square&logo=express&logoColor=white&color=151414)
     ![Flask](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=flask&logoColor=white&color=151414)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=151414)
     ![SQL](https://img.shields.io/badge/SQL-informational?style=flat-square&logo=sql&logoColor=white&color=151414)
