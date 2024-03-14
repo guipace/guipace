@@ -57,7 +57,7 @@
     ![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=151414)
     ![Markdown](https://img.shields.io/badge/Markdown-informational?style=flat-square&logo=markdown&logoColor=white&color=151414)
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipace&count_private=true&show_icons=true&theme=dark&hide_rank=true&hide_title=true)](https://github.com/guipace/github-readme-stats)
+[![Guilherme's GitHub stats](https://github-readme-stats-guilherme-paces-projects.vercel.app/api?username=guipace&count_private=true&show_icons=true&theme=dark&hide_rank=true&hide_title=true)](https://github.com/guipace/github-readme-stats)
 
 <!--
 **guipace/guipace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
