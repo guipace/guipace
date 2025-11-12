@@ -3,22 +3,10 @@
 <p align="center">Driven software engineer with a background in finance. Curious problem solver and passionate for tackling challenges that combine analytical and strategic thinking. I enjoy the process of developing applications and collaborating with others to develop effective software solutions. I also have a life-long passion for aviation and the sport of soaring in particular.</p>
 
 <p align="center">
-  <a href="https://guipace.github.io/">
-    <img
-      alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-29bb89?logoColor=white&style=for-the-badge"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/guilhermepace/">
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/linkedin-29bb89?logo=linkedin&logoColor=white&style=for-the-badge"
-    />
-  </a>
-  <a href="https://angel.co/u/guilherme-pace">
-    <img
-      alt="AngelList"
-      src="https://img.shields.io/badge/AngelList-29bb89?logo=angellist&logoColor=white&style=for-the-badge"
     />
   </a>
   <a href="mailto:pace.gui@gmail.com">
